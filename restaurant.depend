@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1510495312 source:c:\users\nato2\documents\utm\somipp\restaurant\foods.c
+	"foods.h"
+
+1511713965 source:c:\users\nato2\documents\utm\somipp\restaurant\main.c
+	"main.h"
+
+1510489994 c:\users\nato2\documents\utm\somipp\restaurant\foods.c
+	<stdio.h>
+	<string.h>
+
+1513283225 c:\users\nato2\documents\utm\somipp\restaurant\restaurant.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<chrono>
+
+1513276057 c:\users\nato2\documents\utm\somipp\restaurant\foods.h
+	<stdio.h>
+	<string.h>
+
+1513285626 c:\users\nato2\documents\utm\somipp\restaurant\main.h
+	"foods.h"
+	"restaurant.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<pthread.h>
+	<unistd.h>
+	<queue>
+	<stack>
+	<algorithm>
+	<functional>
+	<vector>
+	<chrono>
+	<sys/time.h>
+	<iostream>
+	<windows.h>
+
+1511711328 source:c:\users\nato2\documents\utm\somipp\restaurant\restaurant.c
+	"restaurant.h"
+
+1511718584 source:c:\users\nato2\documents\utm\somipp\restaurant\foods.cpp
+	"foods.h"
+
+1511718548 source:c:\users\nato2\documents\utm\somipp\restaurant\restaurant.cpp
+	"restaurant.h"
+
+1513287084 source:c:\users\nato2\documents\utm\somipp\restaurant\main.cpp
+	"main.h"
+
